@@ -8,7 +8,8 @@
 The website includes various features such as: easily displaying nearby laundries to the customer's location, in addition to ordering services from the laundry with ease. It also enables order tracking, rating both the laundry and the driver, and adding comments upon receiving the order.
 
 # Class diagram:
-![IMG_0916](https://github.com/Sarahalhazaa/my-laundry-website-/assets/159685825/665c7691-8c4b-40fa-9e54-23ac2c048942)
+
+![IMG_0916](https://github.com/Sarahalhazaa/my-laundry-website-/assets/159685825/edcdb0b8-28ce-4be2-a43e-ff44972d59a0)
 
 
 # Total project endpoints:25
